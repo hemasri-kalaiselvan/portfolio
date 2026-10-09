@@ -1,8 +1,8 @@
 # Arun Prakash · Portfolio
 
-Live website: https://hemasri-kalaiselvan.github.io/portfolio/
+Live website: https://arunprakash.github.io/portfolio/
 
-Made with Portfolio Generator. Design code: `classic.rose.friendly.topbar.lift`
+Made with Portfolio Generator. Design code: `bento.slate.modern.dock.slide`
 
 ## What's in this folder
 
@@ -21,7 +21,7 @@ Made with Portfolio Generator. Design code: `classic.rose.friendly.topbar.lift`
 2. Click **uploading an existing file** and upload everything in this folder. `index.html` must sit at the top level.
 3. Click **Commit changes**.
 4. Go to **Settings → Pages**, choose **Deploy from a branch**, branch **main**, folder **/ (root)**, then **Save**.
-5. After 1–2 minutes your site is live at https://hemasri-kalaiselvan.github.io/portfolio/
+5. After 1–2 minutes your site is live at https://arunprakash.github.io/portfolio/
 
 ## Updating later
 
